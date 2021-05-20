@@ -1,7 +1,8 @@
 # Nomor Kelompok
+Kelompok 15
 
 ## Judul
-Ini adalah judul proyek atau nama produk/alat yang dibuat.
+Gas Detector
 
 ## Nama Anggota
 1. 16520036 - Hana Fathiyah
