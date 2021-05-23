@@ -51,10 +51,7 @@ void loop()
   lcd.print(temp);
    
   lcd.setCursor(13,0);
-  lcd.print("C");
-
-// membaca ping sensor  
-    
+  lcd.print("C");    
   
   if (boo == 0){
     int statusSensor = digitalRead(irP);
