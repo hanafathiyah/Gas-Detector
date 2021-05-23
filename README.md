@@ -13,3 +13,4 @@ Berdasarkan laman data.jakarta.go.id, kebakaran akibat kebocoran gas di Jakarta 
 
 ## Video
 Link video YouTube berisi penjelasan tentang tugas proyek.
+https://youtu.be/zK7Zf3k-NnQ
